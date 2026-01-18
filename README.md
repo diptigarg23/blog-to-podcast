@@ -2,6 +2,9 @@
 
 A simple Streamlit-based application that converts any blog posts into engaging podcasts. 
 
+<img width="1448" height="705" alt="image" src="https://github.com/user-attachments/assets/679dc574-c20f-4612-9126-7da62ab6a255" />
+
+
 ## Features
 
 - 🎙️ **Podcast Generation**: Convert blog text to high-quality audio using Google Text-to-Speech (gTTS)
