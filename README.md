@@ -89,9 +89,7 @@ Edit `config.py` to customize:
 This application is for **educational and portfolio demonstration purposes**. 
 
 - All content is attributed to its original source
-- This tool does not claim ownership of Forrester content
-- Users are responsible for ensuring their use complies with Forrester's Terms of Use
-
+- This tool does not claim ownership of any blog content
 
 
 ## License
