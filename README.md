@@ -93,9 +93,6 @@ This application is for **educational and portfolio demonstration purposes**.
 - Users are responsible for ensuring their use complies with Forrester's Terms of Use
 - For commercial use, please obtain proper licensing from Forrester
 
-For more information:
-- [Forrester Terms of Use](https://www.forrester.com/policies/terms-of-use/)
-- [Forrester Citation Policy](https://www.forrester.com/policies/citations-policy/)
 
 ## License
 
