@@ -1,6 +1,6 @@
 # Blog to Podcast Platform
 
-A simple Streamlit-based application that converts Forrester blog posts (or any blog content) into engaging podcasts. Built as a product manager portfolio project demonstrating technical understanding and user experience design.
+A simple Streamlit-based application that converts Forrester blog posts into engaging podcasts. 
 
 ## Features
 
@@ -97,36 +97,7 @@ For more information:
 - [Forrester Terms of Use](https://www.forrester.com/policies/terms-of-use/)
 - [Forrester Citation Policy](https://www.forrester.com/policies/citations-policy/)
 
-## Troubleshooting
-
-### Common Issues
-
-- **URL not working**: Try using the "Paste Text" option instead, or check if the URL is accessible
-- **Audio not generating**: Check your internet connection (gTTS requires internet)
-- **Import errors**: Ensure all dependencies are installed: `pip install -r requirements.txt`
-
-### TTS Engine Notes
-
-- **gTTS (Google Text-to-Speech)**: Requires internet connection, supports multiple languages, free to use (no API key required)
-
-## Future Enhancements
-
-- User authentication and saved articles
-- Batch processing for multiple articles
-- Advanced NLP summarization
-- Custom voice training
-- Mobile app version
-- API for programmatic access
-- Integration with podcast hosting platforms
-
 ## License
 
-This project is open source and available for personal and commercial use.
+This project is open source and available for personal use.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## Support
-
-For issues, questions, or suggestions, please open an issue on the repository.
