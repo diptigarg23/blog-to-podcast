@@ -1,6 +1,6 @@
 # Blog to Podcast Platform
 
-A simple Streamlit-based application that converts Forrester blog posts into engaging podcasts. 
+A simple Streamlit-based application that converts any blog posts into engaging podcasts. 
 
 ## Features
 
