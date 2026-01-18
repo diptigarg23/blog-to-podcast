@@ -1,4 +1,4 @@
-# Portfolio Project Documentation
+# PRD
 ## Blog to Podcast Platform
 
 ### Product Strategy & Vision
@@ -17,33 +17,6 @@
    - Need quick access to insights without reading time
    - Value convenience and time efficiency
 
-2. **Analysts and Researchers**
-   - Need quick visual understanding of complex topics
-   - Want to identify key concepts and relationships
-   - Benefit from structured knowledge representation
-
-3. **Product Managers and Strategists**
-   - Follow Forrester insights regularly
-   - Need to understand market trends quickly
-   - Value both audio and visual learning modes
-
-### User Personas
-
-**Persona 1: The Commuter (Sarah)**
-- 35-year-old product manager
-- 45-minute commute each way
-- Prefers listening to podcasts during commute
-- Needs to stay updated on industry trends
-- **Pain Point**: No time to read lengthy blog posts
-- **Solution**: Convert blog posts to podcasts for commute listening
-
-**Persona 2: The Researcher (Dr. Chen)**
-- 42-year-old research director
-- Needs to quickly assess multiple sources
-- Values audio formats for flexible consumption
-- **Pain Point**: Time-consuming to process multiple articles
-- **Solution**: Quick conversion to podcasts for flexible consumption
-
 ### Feature Prioritization
 
 #### MVP Features (Phase 1)
@@ -51,52 +24,6 @@
 2. ✅ Text-to-speech podcast generation
 4. ✅ Simple UI with download options
 5. ✅ Legal attribution and disclaimer
-
-#### V1 Enhancements (Phase 2)
-1. ✅ Support for pasted text input
-2. ✅ Google TTS (gTTS) for podcast generation
-3. ✅ Language and voice customization
-4. ✅ Audio quality enhancement
-
-#### V2+ Features (Future)
-1. User authentication and saved articles
-2. Batch processing for multiple articles
-3. Advanced NLP summarization
-4. Custom voice training
-5. Mobile app version
-6. API for programmatic access
-7. Integration with podcast hosting platforms
-
-### Product Decisions & Rationale
-
-#### Decision 1: Open-Source Only Stack
-**Rationale**: 
-- No licensing costs for portfolio demonstration
-- Easier for others to run and evaluate
-- Demonstrates understanding of open-source ecosystem
-- Aligns with educational/portfolio purpose
-
-#### Decision 2: Google TTS (gTTS) Only
-**Rationale**:
-- Simplifies codebase and reduces complexity
-- gTTS is reliable, free, and widely used
-- Good quality voices with wide language support
-- Reduces dependencies and maintenance burden
-- Demonstrates focus on simplicity and user experience
-
-#### Decision 3: Legal Compliance Focus
-**Rationale**:
-- Critical for portfolio project showing product thinking
-- Demonstrates understanding of legal/ethical considerations
-- Shows attention to risk management
-- Important for PM role (compliance awareness)
-
-#### Decision 4: Flexible Input Methods
-**Rationale**:
-- URL input for convenience
-- Text paste for flexibility (works with any content)
-- Reduces friction for users
-- Better user experience
 
 ### Success Metrics & KPIs
 
@@ -111,8 +38,6 @@
 
 #### Business Metrics (Hypothetical)
 - **User Adoption**: Number of articles processed
-- **Feature Usage**: Most popular settings and preferences
-- **Error Rate**: Track and minimize failures
 
 ### Legal & Compliance Considerations
 
